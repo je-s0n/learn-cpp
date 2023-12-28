@@ -12,6 +12,6 @@ int main(void) {
   int result=val1+val2;
   // 출력하는 방법으로, C와 다르게 printf 함수에 %d, %s와 같은 서식문자를 이용해서 별도의 출력포맷을 지정하지 않아도 됨
   // << 연산자를 이용하면 출력대상의 연이은 표현과 개행이 가능함
-  std::cout<<"덧셈 결과: "<<result<<std::end1;
+  std::cout<<"덧셈 결과: "<<result<<std::endl;
   return 0;
 }
