@@ -32,7 +32,7 @@ void Car::Accel()
   curSpeed += CAR_CONST::ACC_STEP;
 }
 
-void Car:Break()
+void Car::Break()
 {
   if(curSpeed<CAR_CONST::BRK_STEP
   {
