@@ -27,11 +27,11 @@ namespace CAR_CONST
 class Car
 {
   private: // private으로 선언되었으므로, 이어서 등장하는 변수와 함수는 private에 해당하는 범위인 클래스 내에서만 접근 가능
-    char gamerID[CAR_CONST::ID_LEN];
+    char gamerID[CAR_CONST::ID_LEN]; // 멤버변수 : 클래스를 구성하는(클래스 내에 선언된) 변수
     int fuelGauge;
     int curSpeed;
   public: // public으로 선언되었으므로, 이어서 등장하는 변수와 함수는 public에 해당하는 범위로 어디서든 접근 가능
-    void InitMembers(char * ID, int fuel);
+    void InitMembers(char * ID, int fuel); // 멤버함수 : 클래스를 구성하는(클래스 내에 선언된) 함수
     void ShowCarState();
     void Accel();
     void Break();
