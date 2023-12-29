@@ -8,6 +8,7 @@ using namespace std;
 */
 int main(void)
 {
+  const int &num = 50; // 상수화된 변수로, const 참조자는 상수도 참조 가능함 -> 메모리 공간에 계속 남아있기 때문에 성립 가능 
   int num1=1020;
   int &num2=num1; // num1에 대한 참조자 num2 선언함 -> num1과 num2가 동일하게 메모리 공간을 참조하게 됨
 
