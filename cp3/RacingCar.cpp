@@ -20,8 +20,8 @@ struct Car
 void ShowCarState(const Car &car)
 {
   cout<<"소유자ID: "<<car.gamerId<<endl;
-  cout<<"연료량: "<<car.fuelGauge<<endl;
-  cout<<"현재속도: "<<car.curSpeed<<endl;
+  cout<<"연료량: "<<car.fuelGauge<<"%"<<endl;
+  cout<<"현재속도: "<<car.curSpeed<<"km/s"<<endl<<endl;
 }
 
 // 차의 가속을 위해 엑셀을 밟은 상황을 표현해놓은 함수
