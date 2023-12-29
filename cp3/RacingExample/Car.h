@@ -4,7 +4,7 @@
   ifdef :  define이 됐을 때 사용한다는 뜻
   ifndef : define이 되지 않았을 때 선언한다는 뜻
   define : 상수값을 지정하기 위한 예약어로, 매크로라고 부름
-  endif : if, ifdef, infdef 이 끝났음을 알림
+  endif : ifdef, infdef 이 끝났음을 알림
 */
 #ifndef __CAR_H__
 #define __CAR_H__
