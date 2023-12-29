@@ -15,6 +15,7 @@ void Car::ShowCarState()
   cout<<"소유자ID: "<<gamerID<<endl;
   cout<<"연료량: "<<fuelGauge<<"%"<<endl;
   cout<<"현재속도: "<<curSpeed<<"km/s"<<endl; 
+}
 
 void Car::Accel()
 {
