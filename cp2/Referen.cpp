@@ -12,10 +12,10 @@ int main(void)
   int &num2=num1; // num1에 대한 참조자 num2 선언함 -> num1과 num2가 동일하게 메모리 공간을 참조하게 됨
 
   num2=3047;
-  cout<<"VAL: "<<num1<<endl;
-  cout<<"REF: "<<num2<<endl;
+  cout<<"VAL: "<<num1<<endl; // 3047
+  cout<<"REF: "<<num2<<endl; // 3047
 
-  cout<<"VAL: "<<&num1<<endl;
-  cout<<"REF: "<<&num2<<endl;
+  cout<<"VAL: "<<&num1<<endl; // 0012FF60
+  cout<<"REF: "<<&num2<<endl; // 0012FF60
   return 0;
 }
