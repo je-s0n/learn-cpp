@@ -16,8 +16,10 @@ int main(void)
   int *(&pref)=ptr;
   int **(&dpref)=dptr;
 
-  cout<<ref<<endl;
-  cout<<*pref<<endl; // pref는 포인터 변수 ptr의 참조자이므로, 변수 num에 저장된 값이 출력됨
-  cout<<**dpref<<endl; // dpref는 포인터 변수 dptr의 참조자이므로, 변수 num에 저장된 값이 출력됨
+  cout<<ref<<endl; // 12
+  // pref는 포인터 변수 ptr의 참조자이므로, 변수 num에 저장된 값이 출력됨
+  cout<<*pref<<endl; // 12
+  // dpref는 포인터 변수 dptr의 참조자이므로, 변수 num에 저장된 값이 출력됨
+  cout<<**dpref<<endl; // 12
   return 0;
 }
