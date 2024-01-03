@@ -21,5 +21,12 @@
 ### Chapter 3. 클래스의 기본
 1) C++에서의 구조체 - [RacingCar.cpp](https://github.com/je-s0n/cpp-playground/blob/main/cp3/RacingCar.cpp), [RacingCarFuncAdd.cpp](https://github.com/je-s0n/cpp-playground/blob/main/cp3/RacingCarFuncAdd.cpp), [RacingCarOuterFunc.cpp](https://github.com/je-s0n/cpp-playground/blob/main/cp3/RacingCarOuterFunc.cpp)
 2) 클래스(Class)와 객체(Object) - [RacingCarClassBase.cpp](https://github.com/je-s0n/cpp-playground/blob/main/cp3/RacingCarClassBase.cpp), [RacingExample Folder](https://github.com/je-s0n/cpp-playground/tree/main/cp3/RacingExample), [RacingInlineExample Folder](https://github.com/je-s0n/cpp-playground/tree/main/cp3/RacingInlineExample)
-3) 객체지향 프로그래밍의 이해 - 
+3) 객체지향 프로그래밍의 이해 - [FruitSaleSim1.cpp](https://github.com/je-s0n/cpp-playground/blob/main/cp3/FruitSaleSim1.cpp)
+<br/>
 
+### Chapter 4. 클래스의 완성
+1) 정보은닉(Information Hiding) -
+2) 캡슐화(Encapsulation) -
+3) 생성자(Constructor)와 소멸자(Destructor) -
+4) 클래스와 배열 그리고 this 포인터 -
+<br/>
