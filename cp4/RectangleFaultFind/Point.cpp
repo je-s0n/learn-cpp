@@ -18,6 +18,10 @@ bool Point::InitMembers(int xpos, int ypos)
   return true;
 }
 
+/*
+const는 "이 함수 내에서는 멤버변수에 저장된 값을 변경하지 않겠다"는 뜻으로 선언
+const함수 내에서는 const가 아닌 함수의 호출이 제한됨 -> 변경이 가능한 함수의 호출을 아예 허용하지 않음
+*/
 int Point::GetX() const // const function
 {
   return x;
