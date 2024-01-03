@@ -1,5 +1,5 @@
 ## Part 4. 클래스의 완성
 1) 정보은닉(Information Hiding) - [RectangleFault.cpp](https://github.com/je-s0n/cpp-playground/blob/main/cp4/RectangleFault.cpp), [RectangleFaultFind Folder](https://github.com/je-s0n/cpp-playground/tree/main/cp4/RectangleFaultFind)
 2) 캡슐화(Encapsulation) - [Encaps1.cpp](https://github.com/je-s0n/cpp-playground/blob/main/cp4/Encaps1.cpp), [Encaps2.cpp](https://github.com/je-s0n/cpp-playground/blob/main/cp4/Encaps2.cpp)
-3) 생성자(Constructor)와 소멸자(Destructor) - [Constructor1.cpp](https://github.com/je-s0n/cpp-playground/blob/main/cp4/Constructor1.cpp), [Constructor2.cpp](https://github.com/je-s0n/cpp-playground/blob/main/cp4/Constructor2.cpp), [FruitSaleSim2.cpp](https://github.com/je-s0n/cpp-playground/blob/main/cp4/FruitSaleSim2.cpp)
+3) 생성자(Constructor)와 소멸자(Destructor) - [Constructor1.cpp](https://github.com/je-s0n/cpp-playground/blob/main/cp4/Constructor1.cpp), [Constructor2.cpp](https://github.com/je-s0n/cpp-playground/blob/main/cp4/Constructor2.cpp), [FruitSaleSim2.cpp](https://github.com/je-s0n/cpp-playground/blob/main/cp4/FruitSaleSim2.cpp), [RectangleConstructor Folder](https://github.com/je-s0n/cpp-playground/tree/main/cp4/RectangleConstructor)
 4) 클래스와 배열 그리고 this 포인터 -
