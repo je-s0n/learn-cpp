@@ -34,7 +34,7 @@ class CONTAC600
     void Take() const
     {
       sin.Take();
-      sin.Take();
+      sne.Take();
       snu.Take();
     }
 };
