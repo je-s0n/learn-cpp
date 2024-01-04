@@ -65,3 +65,11 @@ void ShowPointPos(const Point& pos)
   cout<<"x: "<<pos.x<<", ";
   cout<<"y: "<<pos.y<<endl;
 }
+
+/*
+실행결과
+-------------------------------------------
+x: 3, y: 6
+x: 1, y: 2
+Operation times: 2
+*/
