@@ -35,3 +35,8 @@
 1) 복사 생성자(Copy Constructor) - [ClassInit.cpp](https://github.com/je-s0n/cpp-playground/blob/main/cp5/ClassInit.cpp)
 2) 깊은 복사와 얕은 복사 - [ShallowCopyError.cpp](https://github.com/je-s0n/cpp-playground/blob/main/cp5/ShallowCopyError.cpp)
 3) 복사 생성자의 호출시점 - [PassObjCopycon.cpp](https://github.com/je-s0n/cpp-playground/blob/main/cp5/PassObjCopycon.cpp), [ReturnObjCopycon.cpp](https://github.com/je-s0n/cpp-playground/blob/main/cp5/ReturnObjCopycon.cpp), [IKnowTempObj.cpp](https://github.com/je-s0n/cpp-playground/blob/main/cp5/IKnowTempObj.cpp), [ReturnObjDeadTime.cpp](https://github.com/je-s0n/cpp-playground/blob/main/cp5/ReturnObjDeadTime.cpp) 
+
+### Chapter 6. friend와 static 그리고 const
+1) C++에서의 const - [ConstObject.cpp](https://github.com/je-s0n/cpp-playground/blob/main/cp6/ConstObject.cpp), [ConstOverloading.cpp](https://github.com/je-s0n/cpp-playground/blob/main/cp6/ConstOverloading.cpp)
+2) 클래스와 함수에 대한 friend 선언 - [MyFriendClass.cpp](https://github.com/je-s0n/cpp-playground/blob/main/cp6/MyFriendClass.cpp), [MyFriendFunction.cpp](https://github.com/je-s0n/cpp-playground/blob/main/cp6/MyFriendFunction.cpp)
+3) C++에서의 static - [CComStatic.cpp](https://github.com/je-s0n/cpp-playground/blob/main/cp6/CComStatic.cpp), [NeedGlobal.cpp](https://github.com/je-s0n/cpp-playground/blob/main/cp6/NeedGlobal.cpp), [StaticMember.cpp](https://github.com/je-s0n/cpp-playground/blob/main/cp6/StaticMember.cpp), [PublicStaticMember.cpp](https://github.com/je-s0n/cpp-playground/blob/main/cp6/PublicStaticMember.cpp), [ConstStaticMember.cpp](https://github.com/je-s0n/cpp-playground/blob/main/cp6/ConstStaticMember.cpp), [Mutable.cpp](https://github.com/je-s0n/cpp-playground/blob/main/cp6/Mutable.cpp)
