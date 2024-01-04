@@ -42,6 +42,8 @@ int main(void)
 /*
 실행결과
 -------------------------------
+New Object: 0012FF54 -- 33행 obj 생성
+New Copy obj: 0012FE38 -- 34행 함수호출로 인한 25행의 매개변수 ob 생성
 Parm ADR: 0012FE38 -- 27행 실행을 통해
 New Copy obj: 0012FE64 -- 28행의 반환으로 인한 임시객체 생성
 Destroy obj: 0012FE38 -- 매개변수 ob의 소멸
