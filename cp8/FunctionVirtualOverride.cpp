@@ -6,6 +6,20 @@ FunctionOverride.cpp을 보면서, "함수를 오버라이딩 했다는 것은 �
 위와 같은 생각에 대비하여 가상함수 (Virtual Function) 제공함
 가상함수의 선언은 virtual 키워드를 통해 선언하며, First 클래스의 MyFunc 함수가 virtual로 선언하면 Second 클래스의 MyFunc 함수도, Third 클래스의 MyFunc 함수도 가상함수가 됨
 */
+
+/*
+다형성(Polymorphism)
+- 동질이상을 의미하며, 문장은 같은데, 결과는 다르다는 뜻
+Second * sptr = new Second();
+sptr -> MyFunc(); // 동일한 문장
+Third * tptr = new Third();
+tptr -> MyFunc(); // 동일한 문장
+
+실행결과
+---------------------------
+Second
+Third
+*/
 class First
 {
 public:
