@@ -2,6 +2,21 @@
 #include <cstring>
 using namespace std;
 
+/*
+상속을 통해 연관된 일련의 클래스 PermanentWorker, TemporaryWorker, SalesWorker에 공통적인 규약을 정의할 수 있음
+이로 인해 Employee 클래스를 상속하는 모든 클래스의 객체는 Employee 객체로 바라볼 수 있음
+
+실제로 EmployeeHandler 클래스는 저장되는 모든 객체를 Employee 객체로 바라보고 있기 때문에 새로운 클래스가 추가되어도 EmployeeHandler 클래스는 변경하지 않아도 됨
+*/
+
+/*
+순수 가상함수(Pure Virtual Function)와 추상 클래스(Abstract Class)
+- Employee 클래스는 기초 클래스로서만 의미를 가지며, 객체 생성 목적으로 정의된 클래스가 아님
+- 클래스 중에서는 객체 생성을 목적으로 정의되지 않는 클래스도 존재하며, Employee * emp = new Employee("Lee Dong"); 문장이 만들어진다면, 프로그래머의 명백한 실수지만 문법적으로 문제가 없어서 컴파일러에 의해 발견되지 않음
+- virtual int GetPay() const = 0;, virtual void ShowSalaryInfo() const = 0; 과 같이 선언하여 객체의 생성을 문법적으로 막는 것이 좋음
+- 순수 가상함수 : 함수의 몸체가 정의되지 않은 함수로, 이를 표현하기 위해 보이듯이 0의 대입을 표시하며 컴파일러에게 이 부분에서 함수의 몸체가 정의되지 않았음을 알림
+- 추상 클래스 : 하나 이상의 멤버함수를 순수 가상함수로 선언한 클래스
+*/
 class Employee  // 고용인
 {
 private:
