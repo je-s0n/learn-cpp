@@ -36,3 +36,11 @@ int main(void)
   delete tptr;
   return 0;
 }
+
+/*
+실행결과
+---------------
+ThirdFunc
+ThirdFunc
+ThirdFunc
+*/
