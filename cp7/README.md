@@ -1,4 +1,0 @@
-## Part 7. 상속(Inheritance)의 이해
-1) 상속의 문법적인 이해 - [UnivStudentInheri.cpp](https://github.com/je-s0n/cpp-playground/blob/main/cp7/UnivStudentInheri.cpp), [DerivCreOrder.cpp](https://github.com/je-s0n/cpp-playground/blob/main/cp7/DerivCreOrder.cpp), [DerivDestOrder.cpp](https://github.com/je-s0n/cpp-playground/blob/main/cp7/DerivDestOrder.cpp), [DestModel.cpp](https://github.com/je-s0n/cpp-playground/blob/main/cp7/DestModel.cpp)
-2) protected 선언과 세 가지 형태의 상속 - [ProtectedHeri.cpp](https://github.com/je-s0n/cpp-playground/blob/main/cp7/ProtectedHeri.cpp)
-3) 상속을 위한 조건 - [ISAInheritance.cpp](https://github.com/je-s0n/cpp-playground/blob/main/cp7/ISAInheritance.cpp), [HASInheritance.cpp](https://github.com/je-s0n/cpp-playground/blob/main/cp7/HASInheritance.cpp), [HASComposite.cpp](https://github.com/je-s0n/cpp-playground/blob/main/cp7/HASComposite.cpp)
