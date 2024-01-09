@@ -48,3 +48,12 @@
 2) protected 선언과 세 가지 형태의 상속 - [ProtectedHeri.cpp](https://github.com/je-s0n/cpp-playground/blob/main/cp7/ProtectedHeri.cpp)
 3) 상속을 위한 조건 - [ISAInheritance.cpp](https://github.com/je-s0n/cpp-playground/blob/main/cp7/ISAInheritance.cpp), [HASInheritance.cpp](https://github.com/je-s0n/cpp-playground/blob/main/cp7/HASInheritance.cpp), [HASComposite.cpp](https://github.com/je-s0n/cpp-playground/blob/main/cp7/HASComposite.cpp)
 <br/>
+
+### Chapter 8. 상속과 다형성
+1) 객체 포인터의 참조관계 - [ObjectPointer.cpp](https://github.com/je-s0n/cpp-playground/blob/main/cp8/ObjectPointer.cpp), [EmployeeManager.cpp](https://github.com/je-s0n/cpp-playground/blob/main/cp8/EmployeeManager.cpp)
+2) 가상함수(Virtual Function) - [FunctionOverride.cpp](https://github.com/je-s0n/cpp-playground/blob/main/cp8/FunctionOverride.cpp), [FunctionVirtualOverride.cpp](https://github.com/je-s0n/cpp-playground/blob/main/cp8/FunctionVirtualOverride.cpp), [EmployeeManager2.cpp](https://github.com/je-s0n/cpp-playground/blob/main/cp8/EmployeeManager2.cpp)
+3) 가상 소멸자와 참조자의 참조 가능성 - [VirtualDestructor.cpp](https://github.com/je-s0n/cpp-playground/blob/main/cp8/VirtualDestructor.cpp), [ReferenceAttribute.cpp](https://github.com/je-s0n/cpp-playground/blob/main/cp8/ReferenceAttribute.cpp)
+<br/>
+
+### Chapter 9. 가상(Virtual)의 원리와 다중상속
+<br/>
