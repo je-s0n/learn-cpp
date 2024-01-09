@@ -2,7 +2,7 @@
 #include <stdlib.h>
 using namespace std;
 
-// C언어의 구조체 같은 것 -> 프로그래머가 직접 정의한 자료형으로 인식
+// C언어의 구조체 같은 것 -> 프로그래머가 직접 정의한 자료형으로 인식함
 class Simple
 {
   public:
