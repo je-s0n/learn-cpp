@@ -21,6 +21,17 @@ public:
   {}
 
   void ShowData() { cout<<num1<<", "<<num2<<endl; }
+
+  /*
+  // 분명 디폴트 대입 연산자가 삽입되어 멤버 대 멤버의 복사가 진행된다는 사실 인지
+  // 자동으로 삽입된 디폴트 대입 연산자
+  First& operator=(const First& ref)
+  {
+    num1 = ref.num1;
+    num2 = ref.num2;
+    return *this;
+  }
+  */
 };
 
 class Second
