@@ -84,6 +84,10 @@
 <br/>
 
 ### Chapter 14. 템플릿(Template) 2
+1) Chapter 13에서 공부한 내용 확장 - [TemplateArray Folder](https://github.com/je-s0n/cpp-playground/tree/main/cp14/TemplateArray), [PointTemplateFriendFunction.cpp](https://github.com/je-s0n/cpp-playground/blob/main/cp14/PointTemplateFriendFunction.cpp)
+2) 클래스 템플릿의 특수화(Class Template Specialization) - [ClassTemplateSpecialization.cpp](https://github.com/je-s0n/cpp-playground/blob/main/cp14/ClassTemplateSpecialization.cpp), [ClassTemplatePartialSpecialization.cpp](https://github.com/je-s0n/cpp-playground/blob/main/cp14/ClassTemplatePartialSpecialization.cpp)
+3) 템플릿 인자 - [NonTypeTemplateParam.cpp](https://github.com/je-s0n/cpp-playground/blob/main/cp14/NonTypeTemplateParam.cpp), [TemplateParamDefaultValue.cpp](https://github.com/je-s0n/cpp-playground/blob/main/cp14/TemplateParamDefaultValue.cpp)
+4) 템플릿과 static - [FunctionTemplateStaticVar.cpp](https://github.com/je-s0n/cpp-playground/blob/main/cp14/FunctionTemplateStaticVar.cpp), [ClassTemplateStaticMem.cpp](https://github.com/je-s0n/cpp-playground/blob/main/cp14/ClassTemplateStaticMem.cpp)
 <br/>
 
 ### Chapter 15. 예외처리(Exception Handling)
