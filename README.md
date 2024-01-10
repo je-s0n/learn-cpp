@@ -72,3 +72,20 @@
 2) 배열의 인덱스 연산자 오버로딩 - [ArrayClass.cpp](https://github.com/je-s0n/cpp-playground/blob/main/cp11/ArrayClass.cpp), [StableConstArrayProb.cpp](https://github.com/je-s0n/cpp-playground/blob/main/cp11/StableConstArrayProb.cpp), [StablePointObjArray.cpp](https://github.com/je-s0n/cpp-playground/blob/main/cp11/StablePointObjArray.cpp), [StablePointPtrArray.cpp](https://github.com/je-s0n/cpp-playground/blob/main/cp11/StablePointPtrArray.cpp)
 3) 그 이외의 연산자 오버로딩 - [NewDeleteOverloading.cpp](https://github.com/je-s0n/cpp-playground/blob/main/cp11/NewDeleteOverloading.cpp), [ArrayNewDeleteOverloading.cpp](https://github.com/je-s0n/cpp-playground/blob/main/cp11/ArrayNewDeleteOverloading.cpp), [SmartPointer.cpp](https://github.com/je-s0n/cpp-playground/blob/main/cp11/SmartPointer.cpp), [Functor.cpp](https://github.com/je-s0n/cpp-playground/blob/main/cp11/Functor.cpp), [SortFunctor.cpp](https://github.com/je-s0n/cpp-playground/blob/main/cp11/SortFunctor.cpp), [ConvToObject.cpp](https://github.com/je-s0n/cpp-playground/blob/main/cp11/ConvToObject.cpp), [ConvToPrimitive.cpp](https://github.com/je-s0n/cpp-playground/blob/main/cp11/ConvToPrimitive.cpp)
 <br/>
+
+### Chapter 12. String 클래스와 디자인
+1) C++의 표준과 표준 string 클래스 - [STDString.cpp](https://github.com/je-s0n/cpp-playground/blob/main/cp12/STDString.cpp)
+2) 문자열 처리 클래스의 정의 - [StringClass.cpp](https://github.com/je-s0n/cpp-playground/blob/main/cp12/StringClass.cpp)
+<br/>
+
+### Chapter 13. 템플릿(Template) 1
+<br/>
+
+### Chapter 14. 템플릿(Template) 2
+<br/>
+
+### Chapter 15. 예외처리(Exception Handling)
+<br/>
+
+### Chapter 16. C++의 형 변환 연산자
+<br/>
