@@ -91,6 +91,11 @@
 <br/>
 
 ### Chapter 15. 예외처리(Exception Handling)
+1) 예외상황과 예외처리의 이해 - [UnhandlingException.cpp](https://github.com/je-s0n/cpp-playground/blob/main/cp15/UnhandlingException.cpp), [HandlingExceptionUself.cpp](https://github.com/je-s0n/cpp-playground/blob/main/cp15/HandlingExceptionUself.cpp)
+2) C++에서의 예외처리 매커니즘 - [HandlingExceptionTryCatch.cpp](https://github.com/je-s0n/cpp-playground/blob/main/cp15/HandlingExceptionTryCatch.cpp)
+3) Stack Unwinding (스택 풀기) - [PassException.cpp](https://github.com/je-s0n/cpp-playground/blob/main/cp15/PassException.cpp), [DiffHandlingPosition.cpp](https://github.com/je-s0n/cpp-playground/blob/main/cp15/DiffHandlingPosition.cpp), [StackUnwinding.cpp](https://github.com/je-s0n/cpp-playground/blob/main/cp15/StackUnwinding.cpp), [CatchList.cpp](https://github.com/je-s0n/cpp-playground/blob/main/cp15/CatchList.cpp)
+4) 예외상황을 표현하는 예외 클래스의 설계 - [ATMSim.cpp](https://github.com/je-s0n/cpp-playground/blob/main/cp15/ATMSim.cpp), [ATMSim2.cpp](https://github.com/je-s0n/cpp-playground/blob/main/cp15/ATMSim2.cpp), [CatchFlow.cpp](https://github.com/je-s0n/cpp-playground/blob/main/cp15/CatchFlow.cpp)
+5) 예외처리와 관련된 또 다른 특성들 - [BadAlloc.cpp](https://github.com/je-s0n/cpp-playground/blob/main/cp15/BadAlloc.cpp), [ReThrow.cpp](https://github.com/je-s0n/cpp-playground/blob/main/cp15/ReThrow.cpp)
 <br/>
 
 ### Chapter 16. C++의 형 변환 연산자
